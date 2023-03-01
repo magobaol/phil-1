@@ -1,0 +1,12 @@
+{
+  "name": "Phil",
+  "version": "1.0.0",
+  "description": "Utility to filter text",
+  "main": "phil.js",
+  "author": "Francesco Face",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "ts-jest": "^29.0.5"
+  }
+}
